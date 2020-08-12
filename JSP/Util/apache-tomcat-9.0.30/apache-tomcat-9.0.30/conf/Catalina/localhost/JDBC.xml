@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context docBase="F:\컴퓨터 공부\2020 컴퓨터 공부\JSP\수업 자료\apache-tomcat-9.0.30\apache-tomcat-9.0.30\wtpwebapps\JDBC" path="/JDBC" reloadable="true" source="org.eclipse.jst.jee.server:JDBC">
+<WatchedResource>WEB-INF/web.xml</WatchedResource>
+<Resource auth="Container" driverClassName="oracle.jdbc.driver.OracleDriver" maxIdle="20" maxTotal="20" maxWaitMillis="-1" name="jdbc/Oracle" password="hr" type="javax.sql.DataSource" url="jdbc:oracle:thin:@127.0.0.1:1521:xe" username="hr"/>
+</Context>

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>개인 정보 입력 화면</title>
+</head>
+<body>
+<h2>개인 정보 입력</h2>
+<form action="/Quiz2.do" method="post">
+이름 : <input type=text name=name><br>
+아이디 : <input type=text name=id value="아이디를 입력하세요."><br>
+비밀번호 : <input type=password name=pw><br>
+성별 : <input type=radio name=gendern value=M>남성
+<input type=radio name=gendern value=F>여성<br>
+연락처 : <input type=tel name=tel pattern="[0][1][0-9](-|\\s)[0-9]{3,4}(-|\\s)[0-9]{4}">
+<br>
+메일 수신 여부 : <input type=checkbox name=mail value=1 checked><br>공지메일
+<input type=checkbox name=mail value=2><br>광고메일
+<input type=checkbox name=mail value=3><br>배송 확인 메일
+날짜 <input type=date name=date><br>
+직업 : <select name=job size=2>
+<option value=1 selected>학생</option>
+<option value=2>회사원</option>
+<option value=3>강사</option>
+<option value=4>백수</option>
+</select><br>
+<input type=reset value=취소> <input type=submit value=확인><br>
+</form>
+</body>
+</html>

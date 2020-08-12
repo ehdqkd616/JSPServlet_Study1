@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Quiz</title>
+</head>
+<body>
+<h2>입력값 테스트</h2>
+<form action="/Quiz.do" method="post">
+아이디 : <input type=text name=id size=10 maxlength=10 value="user01"><br>
+비밀번호 : <input type=password name=pw size=10><br>
+좋아하는 과일(여러개 선택 가능): 
+<input type=checkbox name=hobby value=1 checked>사과
+<input type=checkbox name=hobby value=2>귤
+<input type=checkbox name=hobby value=3>감<br>
+성별 : 
+<input type=radio name=gendern value=M>남성
+<input type=radio name=gendern value=F>여성<br>
+직업 : <select name=job size=2>
+<option value=1 selected>학생</option>
+<option value=2>회사원</option>
+<option value=3>강사</option>
+<option value=4>백수</option>
+</select><br>
+<textarea name="data" cols="50" rows="5">기본값은 여기에 넣습니다.
+	공백도 나타냅니다.</textarea><br>
+<input type=file name=file><br>
+<input type=submit value="저 장"> <input type=reset value="취 소"><br>
+</form>
+</body>
+</html>

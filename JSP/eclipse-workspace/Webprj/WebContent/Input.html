@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Input 예제</title>
+</head>
+<body>
+<h2>정보 입력</h2>
+<form action="/Input.do" method="post">
+아이디 : <input type=text name=id value="아이디를 입력하세요."><br>
+비밀번호 : <input type=password name=pw><br>
+생년월일 : <input type=date name=date><br>
+취미 : <input type=checkbox name=hobby value=1 checked>노래
+<input type=checkbox name=hobby value=2>피아노
+<input type=checkbox name=hobby value=3>운동
+<input type=checkbox name=hobby value=4>독서
+<input type=checkbox name=hobby value=5>춤<br>
+성별 : <input type=radio name=gendern value=M>남성
+<input type=radio name=gendern value=F>여성<br>
+이메일 : <input type=email name=email><br>
+연락처 : <input type=tel name=tel pattern="[0][1][0-9](-|\\s)[0-9]{3,4}(-|\\s)[0-9]{4}">
+<br>
+학년 : <input type=number name=grade min=1 max=4 step=1><br>
+자기소개 : <textarea cols=50 rows=10 name=intro>자기소개를 작성해주세요.</textarea>
+<br>
+지역(사는 곳) : <select name=area>
+<option value=1 selected>서울</option>
+<option value=2>경기도</option>
+<option value=3>강원도</option>
+<option value=4>충청북도</option>
+<option value=5>충청남도</option>
+<option value=6>전라북도</option>
+<option value=7>전라남도</option>
+<option value=8>경상북도</option>
+<option value=9>경상남도</option>
+</select>
+<br>
+<input type=submit value=저장> <input type=reset value=취소><br>
+
+</form>
+</body>
+</html>
