@@ -1,1 +1,4 @@
 /.metadata/
+
+# ignore files
+.classpath
