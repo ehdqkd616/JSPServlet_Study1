@@ -43,7 +43,7 @@ ___
 ___
 <br>
 
-#### JDBC
+#### JDBC (JDBC 연습)
 - **Java Srouces**
   - [Servlet](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/JDBC/src/lab/web/servlet)
   - [Model](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/JDBC/src/lab/web/model)
@@ -59,7 +59,7 @@ ___
 ___
 <br>
 
-#### Webprj
+#### Webprj 
 - [**Java Srouces**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Webprj/src)
 - [**Views**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Webprj/WebContent)
 - **설정 파일**
@@ -68,7 +68,7 @@ ___
 ___
 <br>
 
-#### Quiz
+#### Quiz 
 - [**Java Srouces**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Quiz/src)
 - [**Views**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Quiz/WebContent)
 
