@@ -61,7 +61,7 @@ ___
 
 #### Webprj
 - [**Java Srouces**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Webprj/src)
-- [**Views**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Webprj/src)
+- [**Views**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Webprj/WebContent)
 - **설정 파일**
   - [web.xml](https://github.com/ehdqkd616/JSPServlet_Study1/blob/master/Webprj/WebContent/WEB-INF/web.xml)
 
@@ -69,6 +69,8 @@ ___
 <br>
 
 #### Quiz
+- [**Java Srouces**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Quiz/src)
+- [**Views**](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/Quiz/WebContent)
 
 ___
 <br>
