@@ -26,6 +26,7 @@ ___
 - **Views**
   - [views](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent)
   - [board](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/board)
+  - [error](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/error)
 
 - **Resources**
   - [css](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/css)
