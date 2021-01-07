@@ -26,6 +26,13 @@ ___
 - **Views**
   - [views](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent)
   - [board](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/board)
+
+- **Resources**
+  - [css](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/css)
+  - [js](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/js)
+  - [incl](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/incl)
+  - [img](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/img)
+  - [fonts](https://github.com/ehdqkd616/JSPServlet_Study1/tree/master/MVCBoardDesign/WebContent/fonts)
   
 - **설정 파일**
   - [web.xml](https://github.com/ehdqkd616/JSPServlet_Study1/blob/master/MVCBoardDesign/WebContent/WEB-INF/web.xml)
